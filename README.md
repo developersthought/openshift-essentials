@@ -1,7 +1,5 @@
 # Learn OpenShift through examples
 
-![Openshift Essentials](./images/thumbnail.png)
-
 ## Contents
 
 - [User & Project Management](./1_user_and_project_management.md)
